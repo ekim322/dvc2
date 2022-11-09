@@ -1,0 +1,5 @@
+outs:
+- md5: 8bfb8fa79edd052724e3dcfa53f66621.dir
+  size: 60330466
+  nfiles: 184
+  path: knn_data
